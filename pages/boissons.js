@@ -88,34 +88,34 @@ const boissons = () => {
                             
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className="-text-gray-900">COKE 33cl</h5>
+                                <h5 className="-text-gray-900">COKE 33 cl</h5>
                                 <span className="ml-2  text-pink-500">3.80 €</span>
                             </div>
                         </div>
 
                         <div>
                             <div className="flex mt-2 text-sm font-light ">
-                                <h5 className=" text-gray-900">COKE ZERO 33cl</h5>
+                                <h5 className=" text-gray-900">COKE ZERO 33 cl</h5>
                                 <span className="ml-2 text-pink-500">3.80 €</span>
                             </div>
                         </div>
 
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className=" text-gray-900">ORANGINA 25cl</h5>
+                                <h5 className=" text-gray-900">ORANGINA 25 cl</h5>
                                 <span className="ml-2  text-pink-500">3.80 €</span>
                             </div>
                         </div>
 
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className=" text-gray-900">SCHWEPPES AGRUMES 25cl</h5>
+                                <h5 className=" text-gray-900">SCHWEPPES AGRUMES 25 cl</h5>
                                 <span className="ml-2  text-pink-500">3.50 €</span>
                             </div>
                         </div>
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className=" text-gray-900">ICE TEA PECHE 25cl</h5>
+                                <h5 className=" text-gray-900">ICE TEA PECHE 25 cl</h5>
                                 <span className="ml-2  text-pink-500">3.50 €</span>
                             </div>
                         </div>
@@ -130,7 +130,7 @@ const boissons = () => {
 
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className=" text-gray-900">PERRIER 33cl</h5>
+                                <h5 className=" text-gray-900">PERRIER 33 cl</h5>
                                 <span className="ml-2  text-pink-500">3.80 €</span>
                             </div>
                         </div>
@@ -168,7 +168,7 @@ const boissons = () => {
                         <div>
                             <h3 className="mt-6 mb-6  text-2xl text-gray-400 ">DRAFT BEERS</h3>
                                 <div className="flex mt-2 text-sm font-light">
-                                <h5 className="text-gray-900">LAGER PELFORT 25cl </h5>
+                                <h5 className="text-gray-900">LAGER PELFORT 25 cl </h5>
                                 <span className="ml-2  text-pink-500">3.30 €</span>
                             </div>
                         </div>
@@ -182,7 +182,7 @@ const boissons = () => {
                     
                         <div>
                             <div className="flex mt-2 text-sm font-light">
-                                <h5 className="-text-gray-900">LAGER PELFORT 50cl </h5>
+                                <h5 className="-text-gray-900">LAGER PELFORT 50 cl </h5>
                                 <span className="ml-2  text-pink-500">6.40 €</span>
                             </div>
                         </div>
@@ -215,7 +215,7 @@ const boissons = () => {
 
                         <div>
                             <div className="flex text-sm font-light">
-                                <p className="text-gray-900">CARAFE 25cl </p>
+                                <p className="text-gray-900">CARAFE 25 cl </p>
                                 <span className="ml-2  text-pink-500">6.00 €</span>
                             </div>
                         </div>
@@ -230,7 +230,7 @@ const boissons = () => {
                         <div>
                             <div className="flex text-sm font-light "> 
                                 <p className="text-sm text-gray-900">CARAFE 1L </p>
-                                <span className="ml-2  text-pink-500">19.00 €</span>
+                                <span className="ml-2  text-pink-500">19.00 €</span>  
                             </div>
                         </div>
 
