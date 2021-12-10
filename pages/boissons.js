@@ -235,7 +235,7 @@ const boissons = () => {
                         </div>
 
                         <div>
-                            <h3 className="mt-6 mb-6 text-2xl text-gray-400 ">THE BOTTELES  </h3>
+                            <h3 className="mt-6 mb-6 text-2xl text-gray-400 ">THE BOTTLES  </h3>
                                 <ul>
                                     <li>
                                         <div>
